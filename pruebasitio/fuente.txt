@@ -1,0 +1,12 @@
+Para incrustar una fuente, copie el código en <head>su html
+
+<enlace rel="preconectar" href="https://fonts.googleapis.com">
+<enlace rel="preconectar" href="https://fonts.gstatic.com" crossorigin>
+<enlace href="https: //fonts.googleapis.com/css2? family= Barlow & family= Quicksand:wght@300;500;700 & display=swap" rel="stylesheet">
+<style>
+@import url('https://fonts.googleapis.com/css2? family= Barlow & family= Quicksand:wght@300;500;700 & display=swap');
+</estilo>
+Reglas CSS para especificar familias
+
+familia tipográfica: 'Barlow', sans-serif;
+familia de fuentes: 'Quicksand', sans-serif;

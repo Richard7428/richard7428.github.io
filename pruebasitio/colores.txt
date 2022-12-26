@@ -1,0 +1,3 @@
+rojo #BD3232
+blanco #F4ECFD
+negro #06180A
